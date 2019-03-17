@@ -368,4 +368,6 @@ def commonstring(str1, str2):
     print(a)
     print((len(a) / max(len(str1),len(str2)))*100)
 
+#change
+
 commonstring('abc','cde')
